@@ -1,0 +1,6 @@
+# Terraform\n.terraform/\n.terraform.lock.hcl\n*.tfstate\n*.tfstate.backup\n\n# Python\n__pycache__/\n*.pyc\n*.pyo\n*.pyd\n.Python\nbuild/\ndevelop-eggs/\ndist/\ndownloads/\neggs/\n.eggs/\nlib/\nlib64/\nparts/\nsdist/\nvar/\nwheels/\n*.egg-info/\n.installed.cfg\n*.egg\nMANIFEST\n\n# IDE\n.vscode/\n.idea/\n\n# OS\n.DS_Store\nThumbs.db
+.terraform/
+*.tfstate
+*.tfstate.backup
+venv/
+__pycache__/
